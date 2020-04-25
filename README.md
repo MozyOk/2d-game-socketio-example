@@ -3,12 +3,12 @@
 ## server
 
 `cd server`  
-`npm i`
+`npm i`  
 `npm run start`
 
 ## client
 
-`cd client`
+`cd client`  
 `npm i`  
 `npm run serve`
 
